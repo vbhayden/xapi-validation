@@ -4,6 +4,6 @@ import restrictToValue from '../helpers/restrictToValue';
 
 export default restrictToSchema({
   objectType: optional(restrictToValue('Activity')),
-  id: required(iri),
+  id: optional(iri),
   definition: optional(definition),
 }) as Rule;
