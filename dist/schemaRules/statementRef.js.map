@@ -1,0 +1,1 @@
+{"version":3,"file":"statementRef.js","sourceRoot":"","sources":["../../src/schemaRules/statementRef.ts"],"names":[],"mappings":";;AAAA,6BAAkE;AAClE,sCAAkC;AAClC,8DAAyD;AAEzD,kBAAe,uBAAgB,CAAC;IAC9B,UAAU,EAAE,eAAQ,CAAC,yBAAe,CAAC,cAAc,CAAC,CAAC;IACrD,EAAE,EAAE,eAAQ,CAAC,cAAI,CAAC;CACnB,CAAS,CAAC"}

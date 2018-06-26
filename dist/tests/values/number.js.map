@@ -1,0 +1,1 @@
+{"version":3,"file":"number.js","sourceRoot":"","sources":["../../../src/tests/values/number.ts"],"names":[],"mappings":";;AACA,4CAAuC;AACvC,wCAAmC;AAEnC,mBAAe,UAAC,IAAU;IACxB,oBAAU,CAAC,EAAE,EAAE,cAAc,EAAE,IAAI,CAAC,CAAC;IACrC,kBAAQ,CAAC,CAAC,UAAU,EAAE,IAAI,CAAC,CAAC;IAC5B,kBAAQ,CAAC,CAAC,EAAE,IAAI,CAAC,CAAC;IAClB,kBAAQ,CAAC,UAAU,EAAE,IAAI,CAAC,CAAC;AAC7B,CAAC,EAAC"}

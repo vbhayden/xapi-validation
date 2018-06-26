@@ -1,0 +1,1 @@
+{"version":3,"file":"validStatementData.js","sourceRoot":"","sources":["../../../src/tests/helpers/validStatementData.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE;QACL,UAAU,EAAE,OAAO;QACnB,IAAI,EAAE,yBAAyB;KAChC;IACD,IAAI,EAAE;QACJ,EAAE,EAAE,wBAAwB;KAC7B;IACD,MAAM,EAAE;QACN,UAAU,EAAE,UAAU;QACtB,EAAE,EAAE,wBAAwB;KAC7B;CACF,CAAC"}

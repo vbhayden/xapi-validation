@@ -1,0 +1,1 @@
+{"version":3,"file":"actor.js","sourceRoot":"","sources":["../../../src/tests/schemaRules/actor.ts"],"names":[],"mappings":";;AACA,kEAA6D;AAC7D,sCAA0C;AAE1C,mBAAe,UAAC,IAAU;IACxB,OAAA,2BAAiB,CAAC;QAChB,KAAK,EAAE,eAAK;QACZ,KAAK,EAAE,eAAK;KACb,EAAE,OAAO,EAAE,IAAI,EAAE,EAAE,IAAI,EAAE,yBAAyB,EAAE,CAAC;AAHtD,CAGsD,EAAC"}

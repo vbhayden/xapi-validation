@@ -1,0 +1,1 @@
+{"version":3,"file":"version.js","sourceRoot":"","sources":["../../../src/tests/regexValues/version.ts"],"names":[],"mappings":";;AACA,4CAAuC;AACvC,wCAAmC;AAEnC,IAAM,SAAS,GAAG,OAAO,CAAC;AAE1B,mBAAe,UAAC,IAAU;IACxB,oBAAU,CAAC,EAAE,EAAE,cAAc,EAAE,IAAI,CAAC,CAAC;IACrC,kBAAQ,CAAC,KAAK,EAAE,IAAI,CAAC,CAAC;IACtB,kBAAQ,CAAC,SAAS,EAAE,IAAI,CAAC,CAAC;AAC5B,CAAC,EAAC"}

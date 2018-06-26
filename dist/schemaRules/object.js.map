@@ -1,0 +1,1 @@
+{"version":3,"file":"object.js","sourceRoot":"","sources":["../../src/schemaRules/object.ts"],"names":[],"mappings":";;AACA,kEAA6D;AAC7D,sCAMoB;AAEpB,kBAAe,2BAAiB,CAAC,cAAM,OAAA,CAAC;IACtC,KAAK,EAAE,eAAK;IACZ,KAAK,EAAE,eAAK;IACZ,QAAQ,EAAE,kBAAQ;IAClB,YAAY,EAAE,sBAAY;IAC1B,YAAY,EAAE,sBAAY;CAC3B,CAAC,EANqC,CAMrC,EAAE,UAAU,CAAS,CAAC"}

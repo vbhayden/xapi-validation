@@ -1,0 +1,1 @@
+{"version":3,"file":"restrictToValue.js","sourceRoot":"","sources":["../../src/helpers/restrictToValue.ts"],"names":[],"mappings":";;AACA,6EAAwE;AAExE,mBAAe,UAAC,KAAU;IACxB,OAAO,UAAC,IAAI,EAAE,IAAI;QAChB,IAAI,IAAI,KAAK,KAAK,EAAE;YAClB,OAAO,CAAC,IAAI,gCAAsB,CAAC,IAAI,EAAE,IAAI,EAAE,KAAK,CAAC,CAAC,CAAC;SACxD;QACD,OAAO,EAAE,CAAC;IACZ,CAAC,CAAC;AACJ,CAAC,EAAC"}
